@@ -63,6 +63,4 @@ python predict.py model=yolov8l.pt source="test3.mp4" show=True
 #### Vehicles Detection, Tracking, and Counting
 ![](./figure/figure3.png)
 
-### Watch the Complete Step-by-Step Explanation
-
-**Video Tutorial will be added later.**
+![](https://www.linkedin.com/posts/niloy-biswas-92003b1b3_deeplearning-trafficmanagement-smartcity-activity-7201622636068564992-fsdv?utm_source=share&utm_medium=member_desktop)
