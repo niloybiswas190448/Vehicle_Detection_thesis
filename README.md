@@ -77,7 +77,7 @@ python predict.py model=yolov8l.pt source="test3.mp4" show=True
 
 ## 🔗 Related Post
 
-See the full post on [LinkedIn](https://www.linkedin.com/posts/niloy-biswas-92003b1b3_deeplearning-trafficmanagement-smartcity-activity-7201622636068564992-fsdv?utm_source=share&utm_medium=member_desktop)
+See the full post on [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7201622636068564992/)
 
 ---
 
