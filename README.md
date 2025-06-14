@@ -70,7 +70,7 @@ python predict.py model=yolov8l.pt source="test3.mp4" show=True
 ### ✅ Vehicle Detection, Tracking, and Counting Example
 <p align="center">
   <img src="image.png" width="45%" alt="Detection Result">
-  <img src="./figure/figure3.png" width="45%" alt="Tracking Result">
+  <img src="Dimension of vehicles.png" width="45%" alt="Tracking Result">
 </p>
 
 ---
